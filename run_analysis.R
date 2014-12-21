@@ -4,9 +4,9 @@
 library(plyr)
 library(reshape2)
 
-##
+#
 
-setwd("D:/DL/_DL_/_ELECTRONICA_/_ESTUDO_2/Getting and Cleaning Data/Getting and Cleaning Data Course Project/web2")
+#setwd("D:/DL/_DL_/_ELECTRONICA_/_ESTUDO_2/Getting and Cleaning Data/Getting and Cleaning Data Course Project/web2")
 
 # Download the file
 if(!file.exists("./data")){dir.create("./data")
